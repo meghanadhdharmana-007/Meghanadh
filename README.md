@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Meghanadh Dharmana
 
 <p align="center">
@@ -20,12 +19,12 @@
 
 Hi 👋, I'm **Meghanadh Dharmana**, a **B.Tech CSE (AI & Data Science) student** passionate about **Artificial Intelligence, Machine Learning, and Data Science**.
 
-* 🔭 Currently working on **AI, Machine Learning & Data Science projects**
-* 🌱 Currently learning **Machine Learning, Deep Learning & Data Analytics**
-* 💡 Interested in solving **real-world problems using Data and AI**
-* 💻 Interested in **Python, SQL, Machine Learning and Data Analysis**
-* 🤝 Open to **internships, collaborations and learning opportunities**
-* 🎯 Career Goal: **Data Scientist / AI-ML Engineer**
+- 🔭 Currently working on **AI, Machine Learning & Data Science projects**
+- 🌱 Currently learning **Machine Learning, Deep Learning & Data Analytics**
+- 💡 Interested in solving **real-world problems using Data and AI**
+- 💻 Interested in **Python, SQL, Machine Learning and Data Analysis**
+- 🤝 Open to **internships, collaborations and learning opportunities**
+- 🎯 Career Goal: **Data Scientist / AI-ML Engineer**
 
 ---
 
@@ -43,12 +42,12 @@ Hi 👋, I'm **Meghanadh Dharmana**, a **B.Tech CSE (AI & Data Science) student*
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-* Machine Learning
-* Data Analysis
-* Statistical Modeling
-* Feature Engineering
-* Artificial Intelligence
-* Deep Learning
+- Machine Learning
+- Data Analysis
+- Statistical Modeling
+- Feature Engineering
+- Artificial Intelligence
+- Deep Learning
 
 ### 📊 Data Science
 
@@ -56,11 +55,11 @@ Hi 👋, I'm **Meghanadh Dharmana**, a **B.Tech CSE (AI & Data Science) student*
   <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter" />
 </p>
 
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
 
 ### 🗄️ Databases
 
@@ -68,10 +67,10 @@ Hi 👋, I'm **Meghanadh Dharmana**, a **B.Tech CSE (AI & Data Science) student*
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-* SQL
-* MySQL
-* MongoDB
-* SQLite
+- SQL
+- MySQL
+- MongoDB
+- SQLite
 
 ### 🔧 Tools
 
@@ -79,9 +78,9 @@ Hi 👋, I'm **Meghanadh Dharmana**, a **B.Tech CSE (AI & Data Science) student*
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-* Git
-* GitHub
-* VS Code
+- Git
+- GitHub
+- VS Code
 
 ---
 
@@ -119,7 +118,7 @@ Projects involving SQL queries, database management, data analysis and extractin
 
 **B.Tech – Computer Science Engineering (AI & Data Science)**
 
-Bonam Venkata Chalamayya Engineering College, Odalarevu
+Bonam Venkata Chalamayya Engineering College, Odalarevu  
 JNTUK | 3rd Year
 
 **SGPA: 9.12**
@@ -130,17 +129,17 @@ JNTUK | 3rd Year
 
 ### SQL Intern — Slash Mark IT Solutions
 
-* Worked with SQL and database concepts
-* Practiced SQL queries and data manipulation
-* Gained practical exposure to database-related tasks
+- Worked with SQL and database concepts
+- Practiced SQL queries and data manipulation
+- Gained practical exposure to database-related tasks
 
 ---
 
 ## 📜 Certifications
 
-* 🏅 NISM / SEBI Certification
-* 🏅 ServiceNow University Certification — SmartBridge
-* 🏅 LinkedIn Certification
+- 🏅 NISM / SEBI Certification
+- 🏅 ServiceNow University Certification — SmartBridge
+- 🏅 LinkedIn Certification
 
 ---
 
@@ -156,24 +155,6 @@ JNTUK | 3rd Year
 </p>
 
 ---
-
-## 🐍 My Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meghanadhdharmana-007/meghanadhdharmana-007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meghanadhdharmana-007&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-
-## 📈 Contribution Graph
 
 ## 🐍 My Contribution Snake
 
@@ -194,16 +175,31 @@ JNTUK | 3rd Year
   </picture>
 </p>
 
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=meghanadhdharmana-007&theme=github-dark"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dharmana-meghanadh-04ab4834b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://instagram.com/maxx_07________">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:meghanadhdharmana@gmail.com">
+
+  <a href="mailto:meghanadhdharmana007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
