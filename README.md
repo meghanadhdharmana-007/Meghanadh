@@ -177,17 +177,6 @@ JNTUK | 3rd Year
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=meghanadhdharmana-007&theme=github-dark"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
