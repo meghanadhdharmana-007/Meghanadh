@@ -43,6 +43,19 @@ Hi 👋, I'm **Meghanadh Dharmana**, a **B.Tech CSE (AI & Data Science) student*
 
 ---
 
+
+## 🏆 GitHub Achievements
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/meghanadhdharmana-007)
+
+[![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-Achievement-blue?style=for-the-badge)](https://github.com/meghanadhdharmana-007)
+[![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Achievement-yellow?style=for-the-badge)](https://github.com/meghanadhdharmana-007)
+[![YOLO](https://img.shields.io/badge/🚀_YOLO-Achievement-purple?style=for-the-badge)](https://github.com/meghanadhdharmana-007)
+[![Pair Extraordinaire](https://img.shields.io/badge/🤝_Pair_Extraordinaire-Achievement-green?style=for-the-badge)](https://github.com/meghanadhdharmana-007)
+[![Starstruck](https://img.shields.io/badge/⭐_Starstruck-Achievement-orange?style=for-the-badge)](https://github.com/meghanadhdharmana-007)
+[![Galaxy Brain](https://img.shields.io/badge/🧠_Galaxy_Brain-Achievement-red?style=for-the-badge)](https://github.com/meghanadhdharmana-007)
+
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
