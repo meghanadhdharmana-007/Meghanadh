@@ -138,10 +138,6 @@ Projects involving SQL queries, database management, data analysis and extractin
 
 ---
 
-> 🚧 More AI & Data Science projects coming soon...
-
----
-
 ## 🎓 Education
 
 **B.Tech – Computer Science Engineering (AI & Data Science)**
