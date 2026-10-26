@@ -184,26 +184,6 @@ JNTUK | 3rd Year
 
 ---
 
-## 🐍 My Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/meghanadhdharmana-007/meghanadhdharmana-007/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/meghanadhdharmana-007/meghanadhdharmana-007/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/meghanadhdharmana-007/meghanadhdharmana-007/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
